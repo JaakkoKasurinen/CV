@@ -363,8 +363,6 @@ nav ul li a:hover {
 .CV-container {
     display: flex;
     flex-direction: column;
-
-
 }
 
 
@@ -556,13 +554,20 @@ footer ul {
     transition: all 0.3s ease;
 }
 
+
+
+a:-webkit-any-link{
+    text-decoration: none;
+    font-size:1.5em;
+}
+
 .footer-col1 .social-links a {
     display: inline-block;
-    height: 40px;
-    width: 40px;
+    height: 60px;
+    width: 60px;
     margin: 0 10px 10px 0;
     text-align: center;
-    line-height: 40px;
+    line-height: 55px;
     border-radius: 50%;
     border: solid 1px var(--color-lightgrey);
     color: var(--color-white);
