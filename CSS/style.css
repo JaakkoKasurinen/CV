@@ -468,6 +468,7 @@ nav ul li a:hover {
     
 }
 
+
 /**
  *      ========== FOOTER ========== 
  */
@@ -611,6 +612,7 @@ footer ul {
     .introduction .teksti p {
         font-size: 15px;
     }
+
 }
 
 
@@ -686,5 +688,6 @@ footer ul {
     .introduction-koodaus {
         height: 200px;
     }
+
 
 }
