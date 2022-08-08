@@ -593,6 +593,10 @@ footer ul {
     .introduction-profiili {
         height: 500px;
     }
+
+    .introduction .teksti p {
+        font-size: 20px;
+    }
 }
 
 @media(max-width: 895px) {
@@ -605,7 +609,7 @@ footer ul {
     }
 
     .introduction .teksti p {
-        font-size: 25px;
+        font-size: 15px;
     }
 }
 
