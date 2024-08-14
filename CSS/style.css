@@ -583,7 +583,7 @@ a:-webkit-any-link{
  *      ========== RESPONSIIVISUUS ========== 
  */
 
- @media(max-width: 3300px) {
+ @media(max-width: 3500px) {
     .introduction-profiili {
         height: 1400px;
     }
